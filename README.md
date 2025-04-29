@@ -10,7 +10,7 @@
 |------|--------|------|
 | 📄 神经网络架构 | `Attention is all you need.pdf` | Transformer 原始论文，神经网络架构的里程碑 |
 | 📄 关系型数据库 | `SystemR-annotated.pdf` | IBM System R 数据库系统论文，带中文注释版本 |
-| 📄 多智能体协作 | `MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework` | 自动分解任务、分配角色并协同执行，从而实现复杂任务的端到端自动化处理 |
+| 📄 多智能体协作 | `MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework.pdf` | 自动分解任务、分配角色并协同执行，从而实现复杂任务的端到端自动化处理 |
 
 | 🛠 工具脚本 | `push.sh` | 一键同步本地笔记到 GitHub 的脚本 |
 | 🧾 项目说明 | `README.md` | 当前你正在阅读的项目首页说明 |
